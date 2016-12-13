@@ -10,3 +10,15 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.img1 {
+float: left;
+width:320px;
+margin: 15px 15px 20px 0px;
+}
+
+.img2 {
+float: right;
+width: 320px;
+margin: 15px 0px 20px 15px;
+}
